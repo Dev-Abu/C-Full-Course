@@ -1,0 +1,18 @@
+what is constants ?
+
+A constant is a name given to the variable whose values can't be altered or changed. 
+A constant is very similar to variables in the C programming language, 
+but it can hold only a single variable during the execution of a program.
+
+A constant is a value or variable that can't be changed in the program,
+for example: 10, 20, 'a', 3.4, "c programming" etc.
+
+There are different types of constants in C programming.
+
+Constant	                    Example
+Decimal Constant	            10, 20, 450 etc.
+Real or Floating-point Constant	10.3, 20.2, 450.6 etc.
+Octal Constant	                021, 033, 046 etc.
+Hexadecimal Constant	        0x2a, 0x7b, 0xaa etc.
+Character Constant	            'a', 'b', 'x' etc.
+String Constant	                "c", "c program", " i like C " etc.

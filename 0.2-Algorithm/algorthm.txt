@@ -1,0 +1,10 @@
+what is algorithm?
+a set of instructions for solving a problem by rouls step by step.
+
+an example.
+algorithm summation of 2 numbers.
+Step 1 : Start.
+Step 2 : Read A,B.
+Step 3 : Sum = A + B.
+Step 4 : Print Sum.
+Step 5 : Stop.

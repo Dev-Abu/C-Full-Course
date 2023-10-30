@@ -1,0 +1,5 @@
+what is flowchart of algorithm?
+
+A flowchart diagram is a graphical representation of the series of steps to run a program. 
+In other words, a flow chart is the graphical form of an algorithm. 
+There are different geometric patterns to demonstrate that set of rules.

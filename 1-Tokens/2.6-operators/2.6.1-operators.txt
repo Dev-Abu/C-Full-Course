@@ -1,0 +1,5 @@
+C operators are one of the features in C which has symbols 
+that can be used to perform mathematical, 
+relational, bitwise, conditional, or logical manipulations
+exmple :
++, -, /, *, % ect

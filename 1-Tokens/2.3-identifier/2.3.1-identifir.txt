@@ -1,0 +1,21 @@
+An identifier is used for any variable, function, data definition, labels in your program etc.
+
+Before starting any language, you must at least know how you name an identifier.
+
+what is identifier ?
+
+In C language, an identifier is a combination of alphanumeric characters, i.e. first begin with a letter of the alphabet or an underline, and the remaining are letter of an alphabet, any numeric digit, or the underline.
+
+Rules for naming identifiers
+The rules that must be followed while naming the identifiers are as follows −
+
+The case of alphabetic characters is significant. For example, using "TUTORIAL" for a variable is not the same as using "tutorial" and neither of them is the same as using "TutoRial for a variable. All three refer to different variables.
+
+There is no rule on how long an identifier can be. We can run into problems in some compilers, if an identifier is longer than 31 characters. This is different for the different compilers.
+
+A valid identifier can have letters (both uppercase and lowercase letters), digits and underscores.
+
+The first letter of an identifier should be either a letter or an underscore.
+
+You cannot use keywords like int, while etc. as identifiers.
+

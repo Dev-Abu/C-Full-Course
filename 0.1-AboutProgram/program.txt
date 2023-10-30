@@ -1,0 +1,24 @@
+what is program ?
+a set of instructions written in computer by (0,1) to solve a problen is called program.
+computers can only execute their native machine instructions by (0,1)
+
+transltor program.
+
+A computer program in its human-readable form is called source code.
+Source code needs another computer program to execute because,
+computers can only execute their native machine instructions.
+Therefore, source code may be translated to machine instructions using the language's compiler.
+(Assembly language programs are translated using an assembler.) The resulting file is called an executable.
+Alternatively, source code may execute within the language's interpreter or compiler.so its called transltor 
+program.
+
+transltor program are.
+assembler
+compiler
+interpreter
+
+
+
+programming language are.
+
+C, c++, Assembly language, java, js ect.

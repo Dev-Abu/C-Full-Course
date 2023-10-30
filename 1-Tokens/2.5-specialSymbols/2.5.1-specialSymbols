@@ -1,0 +1,7 @@
+whatis special symbols in c ?
+
+Some of the special symbols that are used in C programming are as follows 
+− [] () {}, ; * = # 
+Let's understand their definitions, which are as follows − Brackets[] − 
+Opening and closing of brackets are used for array element reference, 
+which indicate single and multidimensional subscripts.

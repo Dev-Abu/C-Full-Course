@@ -1,0 +1,29 @@
+what is operators ?
+
+An operator is a symbol that tells the compiler to perform specific mathematical 
+or logical functions. C language is rich in built-in operators and provides 
+the following types of operators −
+
+
+Operators are.
+
+1. Arithmetic operator.
+2. Assigment operator.
+3. Relational operator.
+4. Logical operator
+5. Conditional operator.
+6. Unary operator.
+7. Bitwise operator.
+8. Special operator.
+
+example : Arithmetic operators.
+
+The arithmetic operators perform addition, subtraction, multiplication, division, 
+exponentiation, and modulus operations.
+
+Addition	    +	Adds one operand to the other
+Subtraction	    -	Subtracts the second operand from the first
+Multiplication	*	Multiplies one operand by the other
+Division	    /	Divides the first operand by the second
+Modulo	        %	Divides the first INTEGER operand by the second, and returns the remainder
+Exponentiation	**	Lets you refer to a number in terms of a base value and an exponent
